@@ -1,4 +1,7 @@
-<h1 align="center">  ![image](https://github.com/user-attachments/assets/bdd0cc23-b412-4047-afec-374addcfea0a) Hi I am Shreyas, Welcome to my GitHub profile 🚀 ! </h1>
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/bdd0cc23-b412-4047-afec-374addcfea0a" alt="wave" width="40" height="40"/> 
+  Hi, I am Shreyas, Welcome to my GitHub profile 🚀 !
+</h1>
 
 - 🔭 I’m currently pursuing masters in **Data Science** at **State University of New York at Buffalo**
   
@@ -10,7 +13,7 @@
 
 - 📫 How to reach me: **skadam4@buffalo.edu**
 
-- ⚡ Fun fact: **I once tried to learn French, but now I only use it to sound fancy while ordering croissants! **
+- ⚡ Fun fact: **I once tried to learn French, but now I only use it to sound fancy while ordering croissants!**
 
 <div align="center">
   <picture>
