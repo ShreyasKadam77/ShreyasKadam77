@@ -26,22 +26,22 @@
 <h2 align="left">Technical Skills:</h2>
 
 <h3 align="left">Programming Languages:</h3>
-<p align="left">
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/>
 </p>
 
 <h3 align="left">Machine Learning:</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://numpy.org/images/logos/numpy.svg" alt="NumPy" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/XGBoost_logo.png" alt="XGBoost" width="40" height="40"/>
-<img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>
+<img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="70" height="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
+<img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yhE3CBwTrlXcAIvNJNTQiA.png" alt="XGBoost" width="50" height="50"/>
+<img src="https://brandfetch.com/matplotlib.org?view=library&library=default&collection=logos&asset=idPoRsBfPy" alt="Matplotlib" width="60" height="60"/>
+<img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="60"/>
 </p>
 
 <h3 align="left">Natural Language Processing:</h3>
