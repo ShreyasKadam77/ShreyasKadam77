@@ -27,9 +27,9 @@
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="60" height="60"/>
 </p>
 
 <h3 align="center">Machine Learning:</h3>
@@ -46,37 +46,37 @@
 
 <h3 align="center">Natural Language Processing:</h3>
 <p align="center">
- <img src="https://thedatascientist.com/wp-content/uploads/2023/08/nltk-276x300.png" alt="NLTK" width="100" height="100"/>
-<img src="https://inapp.com/wp-content/uploads/2022/10/SpaCy_logo.svg-1.png" alt="Spacy" width="100" height="100"/>
+ <img src="https://thedatascientist.com/wp-content/uploads/2023/08/nltk-276x300.png" alt="NLTK" width="80" height="80"/>
+<img src="https://inapp.com/wp-content/uploads/2022/10/SpaCy_logo.svg-1.png" alt="Spacy" width="80" height="80"/>
 </p>
 
 <h3 align="center">Tools & Libraries:</h3>
 <p align="center">
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="100" height="100"/>
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="100" height="100"/>
-<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="100" height="100"/>
-<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="100" height="100"/>
-<img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter" width="100" height="100"/>
-<img src="https://searchvectorlogo.com/wp-content/uploads/2020/10/anaconda-inc-logo-vector.png" alt="Anaconda" width="100" height="100"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" alt="Tableau" width="100" height="100"/>
-<img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="MS Excel" width="100" height="100"/>
-<img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png" alt="PowerBI" width="100" height="100"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80"/>
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="80" height="80"/>
+<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="80" height="80"/>
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="80" height="80"/>
+<img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter" width="80" height="80"/>
+<img src="https://searchvectorlogo.com/wp-content/uploads/2020/10/anaconda-inc-logo-vector.png" alt="Anaconda" width="80" height="80"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" alt="Tableau" width="80" height="80"/>
+<img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="MS Excel" width="80" height="80"/>
+<img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png" alt="PowerBI" width="80" height="80"/>
 </p>
 
 <h3 align="center">Cloud Platforms:</h3>
 <p align="center">
- <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="100" height="100"/>
-<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="100" height="100"/>
+ <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="80" height="80"/>
+<img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="80" height="80"/>
 </p>
 
 <h3 align="center">Databases:</h3>
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="100" height="100"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="100" height="100"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="100" height="100"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="80" height="80"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="80" height="80"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="80" height="80"/>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="mailto:skadam4@buffalo.edu"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="50" height="50"/></a>
-  <a href="https://linkedin.com/in/shreyas-s-kadam" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="50" height="50"/></a>
+  <a href="mailto:skadam4@buffalo.edu"> <img src="https://www.logo.wine/a/logo/Microsoft_Outlook/Microsoft_Outlook-Logo.wine.svg" alt="outlook" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/shreyas-s-kadam" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
