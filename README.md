@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>
-<img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="100" height="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="Pandas" width="100" height="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="100" height="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="90" height="90"/>
 <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yhE3CBwTrlXcAIvNJNTQiA.png" alt="XGBoost" width="100" height="100"/>
